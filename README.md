@@ -41,7 +41,7 @@ Secara lebih spesifik, tujuan tiap case meliputi:
 - Menganalisis performa penjualan tahunan, termasuk kuantitas produk terjual, rata-rata profit, dan total keuntungan perusahaan.
 - Menyusun laporan penjualan tahunan yang memungkinkan perusahaan membandingkan antara volume penjualan dan omzet setiap tahun.
 
-# **2. Kalibrasi** 
+## **2. Kalibrasi** 
 Pada proyek ini, saya melakukan pengolahan dan analisis data hasil kalibrasi alat ukur, seperti termometer gelas dan timbangan analitik.
 Tujuan utama dari proyek ini adalah untuk memastikan bahwa alat ukur memiliki tingkat ketelitian dan akurasi yang sesuai dengan standar nasional maupun internasional.
 
